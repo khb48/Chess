@@ -7,3 +7,5 @@ Features:
 - Game History
 
 Game History will let you **rewatch** games
+# Checkers
+* The sequal to Chess
